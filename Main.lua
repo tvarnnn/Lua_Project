@@ -1,4 +1,4 @@
-print("=== Program 1 ===")
+print("=== PROGRAM 1 ===")
 print("=== INTEGER ===")
 local a = 19
 local b = 5
